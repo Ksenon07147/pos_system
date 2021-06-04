@@ -29,8 +29,9 @@ After the last customer for the day, a Daily Sales Report will be produced, show
 ### Method of Solution
 **Structure Chart**
 
-<div style="text-align:center"><img src="/pic/structure.jpeg" height="300"></div>
+<div style="margin: auto;width: 50%;border: 3px solid green;padding: 10px;"><img src="/pic/structure.jpeg" height="400"></div>
 
 **Flow Charts**
 
-<div style="text-align:center"><img src="/pic/flow.jpeg" width="100"></div>
+<div style="margin: auto;width: 50%;border: 3px solid green;padding: 10px;"><img src="/pic/flow.jpeg" width="210"></div>
+
