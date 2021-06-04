@@ -28,7 +28,7 @@ After the last customer for the day, a Daily Sales Report will be produced, show
 
 ### Method of Solution
 **Structure Chart**
-![](/pic/structure.jpeg)
+<img src="/pic/structure.jpeg" height="300">
 
 **Flow Charts**
-![](/pic/flow.jpeg)
+<img src="/pic/flow.jpeg" width="300">
