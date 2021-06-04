@@ -28,4 +28,7 @@ After the last customer for the day, a Daily Sales Report will be produced, show
 
 ### Method of Solution
 **Structure Chart**
-![](../pic/structure.jpeg)
+![](/pic/structure.jpeg)
+
+**Flow Charts**
+![](/pic/flow.jpeg)
