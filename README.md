@@ -114,6 +114,7 @@ char orderIn, nextCus;
 | MENUC     | 18.00 | double | To  define  the  price  of  combo C                     |
 | MENUD     | 24.00 | double | To  define  the  price  of  combo D                     |
 <br>
+
 | Variables     | Type   | Purpose                                                                    |
 |---------------|--------|----------------------------------------------------------------------------|
 | quanA         | int    | To store the quantity of combo A that current customer order.              |
