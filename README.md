@@ -33,5 +33,7 @@ After the last customer for the day, a Daily Sales Report will be produced, show
 
 **Flow Charts**
 
-<div style="margin: auto;width: 50%;border: 3px solid green;padding: 10px;"><img src="/pic/flow.jpeg" width="210"></div>
-
+<img src="/pic/flow1.jpeg">
+<img src="/pic/flow2.jpeg">
+<img src="/pic/flow3.jpeg">
+<img src="/pic/flow4.jpeg">
